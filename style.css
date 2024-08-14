@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background-image: url('https://art.ngfiles.com/images/1223000/1223149_moonshen_waterfalls-animation.gif?f1585989379');
+  background-size: 100% 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+}
